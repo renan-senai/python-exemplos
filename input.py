@@ -7,4 +7,4 @@ falta = int(input('Digite a quantidade de falta: '))
 media = (nota1+nota2+nota3)/3
 print('Aluno: ' + aluno)
 print('Média: ' + str(media))
-print('Falta(s): ' + falta)
+print('Falta(s): ' + str(falta))
